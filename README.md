@@ -1,7 +1,7 @@
-- 👋 <h1>Hi, I’m Deepak</h1>
-- 👀 <h2>A passionate React developer from india</h2>
+-  <h1>Hi👋, I’m Deepak</h1>
+-  <h2>A passionate👨‍💻 React developer from india</h2>
 - 🌱 I’m currently learning <b>TypeScript & NextJs</b>
-- 💞️ I’m looking for <b>Frontend developer Roles</b>
+- 👀 I’m looking for <b>Frontend developer Roles</b>
 - 📫 How to reach me ds137958@gmail.com
 
 <!---
