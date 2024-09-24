@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/156102de-cc93-405c-a7b1-3a25b87597d1" />
+<iframe src="https://github.com/user-attachments/assets/156102de-cc93-405c-a7b1-3a25b87597d1" />
 -  <h1>Hi👋, I’m Deepak</h1>
 -  <h2>A passionate👨‍💻 React developer from india</h2>
 - 🌱 I’m currently learning <h4>TypeScript & NextJs</h4>
